@@ -10,7 +10,7 @@ Fullstack projects\
 \
 **- 💬 Ask me about ...**\
 JavaScript, React, Node.js, Cybersecurity, Privacy, AWS, and any general software development questions.\
-\
+
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://geekymuch.medium.com/)
