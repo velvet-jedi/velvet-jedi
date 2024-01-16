@@ -13,11 +13,9 @@ JavaScript, React, Nextjs, Node.js, AWS, and any general software development qu
 -->
 🌐 Socials:
 
-<a href="https://www.flaticon.com/free-icons/tweet" title="tweet icons">Tweet icons created by Freepik - Flaticon</a>
-<a href=”https://www.linkedin.com/in/pranjal-r/"><img align=”left” src="https://www.flaticon.com/free-icons/linkedin" alt=”icon | LinkedIn” width=”21px”/></a>
-<a href="">
-<a href="https://www.flaticon.com/free-icons/medium" title="medium icons">Medium icons created by Freepik - Flaticon</a>
-
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
 
 💻 Tech Stack:
 
