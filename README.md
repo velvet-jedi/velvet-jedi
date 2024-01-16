@@ -18,4 +18,4 @@ JavaScript, React, Nextjs, Node.js, AWS, and any general software development qu
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=velvet-jedi&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=velvet-jedi&label=Profile%20Views&color=11&icon=3&pretty=true)](https://visitcount.itsvg.in)
