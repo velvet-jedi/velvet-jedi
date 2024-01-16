@@ -1,5 +1,5 @@
 ### 💫 About Me:
-
+ ![Blue Gold Rustic Artisinal Remote Graduation Banner](https://github.com/velvet-jedi/velvet-jedi/assets/132247456/194d6310-0349-4047-9559-cfc9e7f22607)
 
 
 - 🌱 I’m currently learning ...
@@ -11,8 +11,9 @@ JavaScript, React, Nextjs, Node.js, AWS, and any general software development qu
 - ⚡ Fun fact: I love creating content.
 -->
 🌐 Socials:
-Twitter LinkedIn 
+Twitter LinkedIn
+
 
 💻 Tech Stack:
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=velvet-jedi)](https://github.com/velvet-jedi)
+
 NodeJS AWS CSS3 JavaScript HTML5 GraphQL Express.js JWT Redux Router React MongoDB MySQL Postgres LINUX
