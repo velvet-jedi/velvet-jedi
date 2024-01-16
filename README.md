@@ -2,13 +2,13 @@
 ![banner](https://github.com/velvet-jedi/velvet-jedi/assets/132247456/1338e0f8-5719-4f4d-a279-db0fad708c7e)
 
 
-** 🌱 I’m currently learning ...** \
+**🌱 I’m currently learning ...** \
 Secure Software Delivery at scale\
 \
-** 👯 I’m looking to collaborate on ... ** \
+**👯 I’m looking to collaborate on ...** \
 Fullstack projects\
 \
-** 💬 Ask me about ... ** \
+**💬 Ask me about ...** \
 JavaScript, React, Node.js, Cybersecurity, Privacy, AWS, and any general software development questions.\
 
 
