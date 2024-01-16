@@ -3,12 +3,14 @@
 
 
 **- 🌱 I’m currently learning ...**\
-Secure Software Delivery at scale\\
+Secure Software Delivery at scale\
+\
 **- 👯 I’m looking to collaborate on ...**\
-Fullstack projects\\
+Fullstack projects\
+\
 **- 💬 Ask me about ...**\
-JavaScript, React, Nextjs, Node.js, Cybersecurity, Privacy, AWS, and any general software development questions.\\
-
+JavaScript, React, Node.js, Cybersecurity, Privacy, AWS, and any general software development questions.\
+\
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://geekymuch.medium.com/)
