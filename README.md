@@ -1,5 +1,6 @@
 ### 💫 About Me:
- ![Blue Gold Rustic Artisinal Remote Graduation Banner](https://github.com/velvet-jedi/velvet-jedi/assets/132247456/194d6310-0349-4047-9559-cfc9e7f22607)
+![banner](https://github.com/velvet-jedi/velvet-jedi/assets/132247456/1338e0f8-5719-4f4d-a279-db0fad708c7e)
+
 
 
 - 🌱 I’m currently learning ...
