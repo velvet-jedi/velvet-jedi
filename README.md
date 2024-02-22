@@ -9,7 +9,7 @@ Secure Software Delivery at scale\
 Fullstack projects\
 \
 **💬 Ask me about ...** \
-JavaScript, React, Node.js, Cybersecurity, Privacy, AWS and any general software development questions.
+JavaScript, React, Node.js, Cybersecurity (Application Security), Privacy, AWS and any general software development questions.
 
 
 ## 🌐 Socials:
