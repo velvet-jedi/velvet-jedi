@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Adobe Experience Platform Data Engineer and Consultant health-tech is where my knack is.
+Adobe Experience Platform Engineer & Consultant · Health-tech specialist · Real-time CDP · Identity · Customer Journey Orchestration
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://geekymuch.medium.com/)
