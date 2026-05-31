@@ -1,6 +1,5 @@
 ## 💫 About Me:
-![banner](https://github.com/velvet-jedi/velvet-jedi/assets/132247456/1338e0f8-5719-4f4d-a279-db0fad708c7e)
-
+Adobe Experience Platform Data Engineer and Consultant health-tech is where my knack is.
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://geekymuch.medium.com/)
