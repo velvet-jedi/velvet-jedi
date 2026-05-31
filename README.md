@@ -7,7 +7,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Sensei_Gakusei)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjal-r/)
 
 **💬 Ask me about ...** \
-JavaScript, React, Node.js, Security, Privacy, AWS and any general software development questions.
+Any general software development questions. Or specific ones related to Adobe Martech Stack
 
 ---
 [![](https://visitcount.itsvg.in/api?id=velvet-jedi&label=Profile%20Views&color=11&icon=3&pretty=true)](https://visitcount.itsvg.in)
